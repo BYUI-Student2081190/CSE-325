@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimedMathQuiz", "TimedMathQuiz.csproj", "{2318DD35-8C80-41A3-A77E-887F8DA0E259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2318DD35-8C80-41A3-A77E-887F8DA0E259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2318DD35-8C80-41A3-A77E-887F8DA0E259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2318DD35-8C80-41A3-A77E-887F8DA0E259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2318DD35-8C80-41A3-A77E-887F8DA0E259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761F4499-1A4F-4EF0-BB36-C9CB595CEBCA}
+	EndGlobalSection
+EndGlobal
